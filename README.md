@@ -5,8 +5,10 @@ Simple connect gateway between 2 computers
 
 What you have to do
 -----------------------
--Change host&port in both files
+-Change host&port in both files\n
+
 -Remove the progrss bar in client code
+
 -Simple test
 
 What this tool can do
