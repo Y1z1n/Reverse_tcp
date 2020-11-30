@@ -5,7 +5,7 @@ Simple connect gateway between 2 computers
 
 What you have to do
 -----------------------
--Change host&port in both files\n
+-Change host&port in both files
 
 -Remove the progrss bar in client code
 
@@ -14,7 +14,9 @@ What you have to do
 What this tool can do
 ------------------------
 -Upload files to victim
+
 -Download files from victim
+
 -Go through victim files via "ls" and "cd" commands
 
 GoBye
